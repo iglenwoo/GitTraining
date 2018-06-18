@@ -5,4 +5,4 @@ TODO: write instructions explaining how to install the product
 yum install wget -y
 
 # Uninstall
-TODO: tell people how to uninstall the product
+- Run `rm -rf /usr/bin/our_product`
